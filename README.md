@@ -1,5 +1,5 @@
 # Alpha Rhythm Datasets
-The repo intends to index public alpha rhythm datasets. A comprehensive list would help researchers interested in this EEG signal. New are a
+The repo intends to index public alpha rhythm datasets. A comprehensive list would help researchers interested in this EEG signal. New entries are welcome.
 
 * **Datasets**
   1.  [EEG Alpha Waves dataset](https://zenodo.org/record/2348892#.X1pudYYpA68): This dataset contains electroencephalographic recordings of subjects in a simple resting-state eyes open/closed experimental protocol. Data were recorded during a pilot experiment taking place in the GIPSA-lab, Grenoble, France, in 2017
